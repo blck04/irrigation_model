@@ -69,8 +69,8 @@ The simulation calculates daily reference evapotranspiration (ETo) using the Har
 * `irrigation_model.py`: Contains the `IrrigationModel` class, which implements the core daily water balance simulation logic and results analysis.
 * `data_processor.py`: Contains the `DataProcessor` class, used for loading data files and includes functions for ETo and Kc calculations (used internally by `IrrigationModel`).
 * `README.md`: This file.
-* *(Optional)* `requirements.txt`: Lists Python dependencies.
-* *(Optional)* Sample data CSV files.
+
+*  Sample data CSV files.
 
 ## Input Data Format
 
