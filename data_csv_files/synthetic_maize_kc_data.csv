@@ -1,0 +1,121 @@
+Day After Planting,Growth Stage,Kc
+1,Initial,0.3
+2,Initial,0.3
+3,Initial,0.3
+4,Initial,0.3
+5,Initial,0.3
+6,Initial,0.3
+7,Initial,0.3
+8,Initial,0.3
+9,Initial,0.3
+10,Initial,0.3
+11,Initial,0.3
+12,Initial,0.3
+13,Initial,0.3
+14,Initial,0.3
+15,Initial,0.3
+16,Initial,0.3
+17,Initial,0.3
+18,Initial,0.3
+19,Initial,0.3
+20,Initial,0.3
+21,Initial,0.3
+22,Initial,0.3
+23,Initial,0.3
+24,Initial,0.3
+25,Initial,0.3
+26,Development,0.33399999999999996
+27,Development,0.368
+28,Development,0.40199999999999997
+29,Development,0.43599999999999994
+30,Development,0.47
+31,Development,0.504
+32,Development,0.538
+33,Development,0.572
+34,Development,0.6059999999999999
+35,Development,0.6399999999999999
+36,Development,0.6739999999999999
+37,Development,0.708
+38,Development,0.742
+39,Development,0.776
+40,Development,0.8099999999999998
+41,Development,0.8439999999999999
+42,Development,0.8779999999999999
+43,Development,0.9119999999999999
+44,Development,0.946
+45,Development,0.98
+46,Development,1.0139999999999998
+47,Development,1.0479999999999998
+48,Development,1.0819999999999999
+49,Development,1.1159999999999999
+50,Development,1.15
+51,Mid-season,1.15
+52,Mid-season,1.15
+53,Mid-season,1.15
+54,Mid-season,1.15
+55,Mid-season,1.15
+56,Mid-season,1.15
+57,Mid-season,1.15
+58,Mid-season,1.15
+59,Mid-season,1.15
+60,Mid-season,1.15
+61,Mid-season,1.15
+62,Mid-season,1.15
+63,Mid-season,1.15
+64,Mid-season,1.15
+65,Mid-season,1.15
+66,Mid-season,1.15
+67,Mid-season,1.15
+68,Mid-season,1.15
+69,Mid-season,1.15
+70,Mid-season,1.15
+71,Mid-season,1.15
+72,Mid-season,1.15
+73,Mid-season,1.15
+74,Mid-season,1.15
+75,Mid-season,1.15
+76,Mid-season,1.15
+77,Mid-season,1.15
+78,Mid-season,1.15
+79,Mid-season,1.15
+80,Mid-season,1.15
+81,Mid-season,1.15
+82,Mid-season,1.15
+83,Mid-season,1.15
+84,Mid-season,1.15
+85,Mid-season,1.15
+86,Mid-season,1.15
+87,Mid-season,1.15
+88,Mid-season,1.15
+89,Mid-season,1.15
+90,Mid-season,1.15
+91,Late season,1.1383333333333332
+92,Late season,1.1266666666666665
+93,Late season,1.115
+94,Late season,1.1033333333333333
+95,Late season,1.0916666666666666
+96,Late season,1.0799999999999998
+97,Late season,1.0683333333333334
+98,Late season,1.0566666666666666
+99,Late season,1.045
+100,Late season,1.0333333333333332
+101,Late season,1.0216666666666667
+102,Late season,1.01
+103,Late season,0.9983333333333333
+104,Late season,0.9866666666666666
+105,Late season,0.975
+106,Late season,0.9633333333333334
+107,Late season,0.9516666666666667
+108,Late season,0.94
+109,Late season,0.9283333333333333
+110,Late season,0.9166666666666667
+111,Late season,0.905
+112,Late season,0.8933333333333333
+113,Late season,0.8816666666666666
+114,Late season,0.87
+115,Late season,0.8583333333333334
+116,Late season,0.8466666666666667
+117,Late season,0.835
+118,Late season,0.8233333333333334
+119,Late season,0.8116666666666668
+120,Late season,0.8
